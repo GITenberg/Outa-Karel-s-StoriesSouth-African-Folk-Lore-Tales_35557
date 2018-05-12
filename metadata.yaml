@@ -1,0 +1,34 @@
+_repo: Outa-Karel-s-StoriesSouth-African-Folk-Lore-Tales_35557
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Penstone, Constance
+    gutenberg_agent_id: '37748'
+    url: http://www.gutenberg.org/2009/agents/37748
+covers:
+- cover_type: archival
+  image_path: 35557-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Metelerkamp, Sanni
+    gutenberg_agent_id: '37746'
+    url: http://www.gutenberg.org/2009/agents/37746
+description: ''
+gutenberg_issued: '2011-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35557'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- South Africa'
+- !lcc 'GR'
+tableOfContents: The place and the people -- How Jakhals fed Oom Leeuw -- Who was
+  King? -- Why the hyena is lame -- Who was the thief? -- The Sun -- The stars and
+  the Stars' Road -- Why the hare's nose is split -- How the jackal got his stripe
+  -- The animals' dam -- Saved by his tail -- The flying lion -- Why the heron has
+  a crooked neck -- The little red tortoise -- The ostrich hunt.
+title: 'Outa Karel''s Stories: South African Folk-Lore Tales'
+url: http://www.gutenberg.org/ebooks/35557
